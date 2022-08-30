@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background: radial-gradient(black, #0043ff00);
+}
+.datos {
+    background: radial-gradient(#3ce9e18c, transparent);
+    display: block;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 50px;
+    width: 50%;
+    height: 50%;
+}
+
+.pais {
+    margin: 20px;
+    display: flex;
+    background: white;
+    border-radius: 1rem;
+    justify-content: center;
+}
+.ciudad {
+    margin: 20px;
+    display: flex;
+    background: white;
+    border-radius: 1rem;
+    justify-content: center;
+}
+.longitud {
+    margin: 20px;
+    display: flex;
+    background: white;
+    border-radius: 1rem;
+    justify-content: center;
+}
+.latitud {
+    margin: 20px;
+    display: flex;
+    background: white;
+    border-radius: 1rem;
+    justify-content: center;
+}
+.tempe {
+    margin: 20px;
+    display: flex;
+    background: white;
+    border-radius: 1rem;
+    justify-content: center;
+}
